@@ -33,7 +33,7 @@ See [My Demo](https://sjquigley.github.io/Steve-Electrate-Fuego/)
 
 10. Test the URL in a browser. Magic, no? Actually, it's computer science.  
 
-View the [Instructional Video](https://www.youtube.com/watch?v=drINeC4G40A) 
+View the [Instructional Video](https://youtu.be/eoPFEMJZzjo) 
 
 Check out our other [Pitt Fuego Coding Tools](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/)
 
