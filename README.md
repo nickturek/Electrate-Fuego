@@ -33,7 +33,7 @@ See [My Demo](https://sjquigley.github.io/Steve-Electrate-Fuego/)
 
 10. Test the URL in a browser. Magic, no? Actually, it's computer science.  
 
-View the [Instructional Video](https://youtu.be/eoPFEMJZzjo)
+View the [Instructional Video](https://youtu.be/PsC-AWZ_57U)
 
 Check out our other [Pitt Fuego Coding Tools](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/)
 
@@ -45,17 +45,17 @@ Setting up Visual Studio Code for Windows and CodePad for Chromebooks (Our recom
 ### Visual Studio Code (Mac)
 
 1. Download "**[Visual Studio Code](https://code.visualstudio.com/download)**"
-1. Add HTML Preview - from the dropdown menu, select **View>Extension.**
-1. In the search bar type "**Live Preview**."
-1. In the right-had corner, select the "**show preview**" button to see a.
+1. Add HTML Preview - from the dropdown menu, select **Code>Preferences>Extension.**
+1. In the search bar type "**Live Preview**." Install.
+1. Right click on **index.html** file. Click S**how Preview** to see a live version of your code.  
 1. Adjust text wrapping - from the dropdown menu, select **View>Word Wrap** (this will force lines of code to conform to your viewer tab.)
 
 ### Visual Studio Code (Windows)
 
 1. Download "**[Visual Studio Code](https://code.visualstudio.com/download)**"
-1. Add HTML Preview - from the dropdown menu, select **View>Extension.**
+1. Add HTML Preview - - from the dropdown menu, select **Code>Preferences>Extension.**
 1. In the search bar type "**Live Preview**."
-1. In the right-had corner, select the "**show preview**" button to see a live version of your code.
+1. Right click on **index.html** file. Click S**how Preview** to see a live version of your code.
 1. Adjust text wrapping - from the dropdown menu, select **View>Word Wrap** (this will force lines of code to conform to your viewer tab.)
 
 ### Code Pad (Chromebook)
