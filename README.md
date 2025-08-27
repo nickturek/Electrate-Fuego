@@ -58,8 +58,9 @@ Setting up Visual Studio Code for Windows and CodePad for Chromebooks (Our recom
 1. Right click on **index.html** file. Click S**how Preview** to see a live version of your code.
 1. Adjust text wrapping - from the dropdown menu, select **View>Word Wrap** (this will force lines of code to conform to your viewer tab.)
 
-### Code Pad (Chromebook)
+### Phoenix Code (Online or Download -- Great for Chromebooks and iPads)
 
-1. Download "**[Code Pad Text Editor](https://chrome.google.com/webstore/detail/code-pad-text-editor/adaepfiocmagdimjecpifghcgfjlfmkh?hl=en-GB)**" from Chrome Web Store.
-1. From the dropdown menu, select **Editor>IDE Preferences**
-1. Toggle "**Word wrap limit**" to the middle value (this will force lines of code to conform to your viewer tab.)<p>&nbsp;</p>
+1. Go to [Phoenix Code](https://phcode.dev). 
+1. Use the online version or [download](https://phcode.io/#/home) a desktop app for Mac, Windows, Linux. 
+1. Adjust text wrapping, select **View>Word Wrap**
+1. Enjoy the live preview. <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
